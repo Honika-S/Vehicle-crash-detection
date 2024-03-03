@@ -1,0 +1,6 @@
+train: ../honi/images/training
+val: ../honi/labels/validation
+#number of classes
+nc: 1
+#class names
+names: ['surfing']
